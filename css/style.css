@@ -1,0 +1,22 @@
+body
+{
+    background-image: url(../img/PP.jpg);
+    background-repeat: repeat;
+}
+
+#botao
+{
+    color: white;
+    background: rgb(237,50,55);
+}
+
+#fundo
+{
+    background: whitesmoke;
+}
+
+#fonte
+{
+    font-size: 15px; 
+    font-weight: bold;
+}
