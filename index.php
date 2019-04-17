@@ -20,7 +20,7 @@ include 'var/login.php';
         <link href="vendor/datatables/dataTables.bootstrap4.css" rel="stylesheet">	
         <link rel="stylesheet" href="css/home.css">
         <link rel="stylesheet" type="text/css" href="css/style.css">
-        <link rel="shortcut icon" type="image/x-icon" href="img/LOGOALDO2.png">
+        <link rel="shortcut icon" type="image/x-icon" href="img/img2.png">
 <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lato">
 <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Montserrat">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
@@ -32,7 +32,7 @@ include 'var/login.php';
 
         <nav class="navbar navbar-expand-lg navbar-light bg-light" id="bar">
         <a class="navbar-brand" href="#">
-            <img src="../Hora/img/LOGOALDO.png" width="110" height="30" class="d-inline-block align-top" alt="">
+            <img src="../Hora/img/img.png" width="110" height="30" class="d-inline-block align-top" alt="">
         </a>
             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarText" aria-controls="navbarText" aria-expanded="false" aria-label="Toggle navigation">
                 <span class="navbar-toggler-icon"></span>
